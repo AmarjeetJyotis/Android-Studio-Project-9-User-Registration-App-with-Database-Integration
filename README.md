@@ -108,9 +108,14 @@ The app displays a user registration interface. Upon submitting the form, the us
 ## 🧑‍💻 Author
 
 **Amarjeet Kumar**  
-UID: 21BCS10768  
-Department of Computer Science & Engineering  
-Chandigarh University
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)
 
 ---
 
